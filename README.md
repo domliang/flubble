@@ -2,6 +2,8 @@
 
 flutter + dribbble = flubble
 
+![title](https://github.com/domliang/flubble/tree/master/assets/icons/flubble.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
