@@ -2,7 +2,7 @@
 
 flutter + dribbble = flubble
 
-![title](https://github.com/domliang/flubble/tree/master/assets/icons/flubble.png)
+![title](https://github.com/domliang/flubble/blob/master/assets/icons/flubble.png?raw=true)
 
 ## Getting Started
 
