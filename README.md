@@ -1,6 +1,6 @@
 # flubble
 
-Your App Description
+flutter + dribbble = flubble
 
 ## Getting Started
 
